@@ -17,7 +17,9 @@
 ## Project Structure
 
 toy_text_stats/
+
  -text_stats.py
+
  -sample.txt
 
 ## How to Run
@@ -27,9 +29,13 @@ python text_stats.py
 ## Example Output
 
 총 줄 수: 11
+
 총 단어 수: 59
+
 총 글자 수: 430
+
 가장 긴 단어: transportation.
+
 평균 단어 길이: 6.254237288135593
 
 ## Notes
@@ -39,4 +45,5 @@ python text_stats.py
 
 ## Status
 
-- still editing code
+- Completed basic version
+- Ready for review
