@@ -46,4 +46,6 @@ python text_stats.py
 ## Status
 
 - Completed basic version
-- Ready for review
+- Completed review with ChatGPT
+- 작성일: 2026.01.17
+- Python 1학년 겨울방학 때 작성한 첫 텍스트 분석 코드
