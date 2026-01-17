@@ -28,7 +28,7 @@ def count_words(): # 총 단어 수
 
 
 def count_message(): # 총 글자 수(공백 미포함)
-    message = text.replace(" ","").replace("n","")
+    message = text.replace(" ","").replace("\n","")
     message_count = len(message)
     
     return message_count
