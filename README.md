@@ -32,11 +32,11 @@ python text_stats.py
 
 총 단어 수: 59
 
-총 글자 수: 430
+총 글자 수: 347
 
-가장 긴 단어: transportation.
+가장 긴 단어: transportation
 
-평균 단어 길이: 6.254237288135593
+평균 단어 길이: 5.966101694915254
 
 ## Notes
 
